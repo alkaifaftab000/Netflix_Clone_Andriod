@@ -1,4 +1,4 @@
-# netflix_clone
+# Netflix Clone
 
 A new Flutter project.
 
