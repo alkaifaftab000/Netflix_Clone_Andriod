@@ -15,6 +15,9 @@ This project showcases a Netflix clone with meticulously crafted UI screens and 
 # Try App 
 https://drive.google.com/file/d/1PdR4O52_vONxDKtFxS2dvjb9lKLakR0l/view?usp=drive_link
 
+# Demo 
+https://www.linkedin.com/posts/alkaifansari1_flutter-androiddevelopment-fullstackdevelopment-activity-7289658980103004160-EhzB?utm_source=share&utm_medium=member_desktop
+
 # Splash Screen 
 ![{8CF890E6-2974-4FC1-A9A9-2440D8F23748}](https://github.com/user-attachments/assets/b60c6c4b-6e2a-44b6-902c-0ca37323609b)
 
