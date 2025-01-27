@@ -15,6 +15,10 @@ This project showcases a Netflix clone with meticulously crafted UI screens and 
 # Try App 
 https://drive.google.com/file/d/1PdR4O52_vONxDKtFxS2dvjb9lKLakR0l/view?usp=drive_link
 
+# Splash Screen 
+![{8CF890E6-2974-4FC1-A9A9-2440D8F23748}](https://github.com/user-attachments/assets/b60c6c4b-6e2a-44b6-902c-0ca37323609b)
+
+
 # Home Screen 
 ![{E5AE1AA5-5A52-431E-8CCE-45586176CAEB}](https://github.com/user-attachments/assets/c685dffa-7773-41ba-908e-94f28672cd55)
 
